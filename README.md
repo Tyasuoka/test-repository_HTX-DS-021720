@@ -1,6 +1,6 @@
 # Test Repository
 
-![New gif from Giphy](https://media.giphy.com/media/zpkabHzK4akCc/giphy.gif)
+![Changed gif from Giphy](https://media.giphy.com/media/d1K85nKZiIsqA/giphy.gif)
 
 ## Steps to Follow
 
